@@ -1,2 +1,2 @@
 # test2
-this is a project for git operatios
+this is a project for git operations
